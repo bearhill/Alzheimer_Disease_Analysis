@@ -1,0 +1,1 @@
+Proteomic analysis of Senile Plaques in AD/non-AD brain as well as APP/PS1 model mouse brain.
